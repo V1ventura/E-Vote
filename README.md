@@ -58,6 +58,11 @@ Se este projeto te ajudou ou te inspirou, deixe uma estrela no repositório!
 ▶️ dotnet run
 
 ---
+### ▶️ Candidatos a Presidente
+👨‍🌾 Alan Brado = 52
+👩‍🌾 Osmar Motta = 51
+
+---
 ###
 
 🎯 Objetivos do Projeto

@@ -33,10 +33,6 @@ Se este projeto te ajudou ou te inspirou, deixe uma estrela no repositório!
 ├── bin/ & obj/ # Pastas geradas pelo build
 └── README.md # Este arquivo :)
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## ▶️ Como Executar o Projeto
@@ -45,13 +41,16 @@ Editar
 - [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - Visual Studio ou Visual Studio Code
 
+## ▶️ Como Executar o Projeto
+
 ### Passos:
 
-```bash
-git clone https://github.com/seuusuario/urnaeletronica.git
-cd urnaeletronica
-dotnet run
-Ou abra o projeto diretamente no Visual Studio.
+'''bash
+▶️ git clone https://github.com/seuusuario/urnaeletronica.git
+▶️ cd urnaeletronica
+▶️ dotnet run
+
+###
 
 🎯 Objetivos do Projeto
 Simular o processo de votação com interface gráfica.
@@ -62,6 +61,11 @@ Praticar o uso de Windows Forms e estruturação de aplicações desktop.
 
 Organização do código e boas práticas em projetos simples.
 
+###
+
 📌 Observações
 Este projeto foi desenvolvido com fins educacionais e práticos.
 Fique à vontade para contribuir com melhorias ou adaptações!
+
+
+

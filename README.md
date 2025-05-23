@@ -35,18 +35,25 @@ Se este projeto te ajudou ou te inspirou, deixe uma estrela no repositório!
 
 ---
 
-## ▶️ Como Executar o Projeto
+## ▶️ Instalação
 
 ### Pré-requisitos:
 - [.NET 6 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - Visual Studio ou Visual Studio Code
 
+---
 ## ▶️ Como Executar o Projeto
 
-### Passos:
+### Clone o repósitorio do github:
 
 '''bash
-▶️ git clone https://github.com/seuusuario/urnaeletronica.git
+▶️ git clone https://github.com/V1ventura/urnaeletronica.git
+▶️ clone para o visual studio code
+▶️ abre no visual studio code
+
+### Depois abra o Windows Powershell:
+
+### Execute:
 ▶️ cd urnaeletronica
 ▶️ dotnet run
 

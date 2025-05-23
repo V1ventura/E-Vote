@@ -50,6 +50,7 @@ Se este projeto te ajudou ou te inspirou, deixe uma estrela no repositório!
 ▶️ cd urnaeletronica
 ▶️ dotnet run
 
+---
 ###
 
 🎯 Objetivos do Projeto
@@ -61,6 +62,7 @@ Praticar o uso de Windows Forms e estruturação de aplicações desktop.
 
 Organização do código e boas práticas em projetos simples.
 
+---
 ###
 
 📌 Observações

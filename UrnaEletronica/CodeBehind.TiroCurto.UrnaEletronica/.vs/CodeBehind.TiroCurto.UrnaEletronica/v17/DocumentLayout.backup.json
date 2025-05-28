@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\WOLFIZERAX\\Desktop\\E-vote\\UrnaEletronica\\CodeBehind.TiroCurto.UrnaEletronica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39EE6B61-0D55-23B0-5790-C43225ED5FC1}|CodeBehind.TiroCurto.UrnaEletronica.csproj|c:\\users\\wolfizerax\\desktop\\e-vote\\urnaeletronica\\codebehind.tirocurto.urnaeletronica\\frmurna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39EE6B61-0D55-23B0-5790-C43225ED5FC1}|CodeBehind.TiroCurto.UrnaEletronica.csproj|solutionrelative:frmurna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EE6B61-0D55-23B0-5790-C43225ED5FC1}|CodeBehind.TiroCurto.UrnaEletronica.csproj|C:\\Users\\WOLFIZERAX\\Desktop\\E-vote\\UrnaEletronica\\CodeBehind.TiroCurto.UrnaEletronica\\frmurna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{39EE6B61-0D55-23B0-5790-C43225ED5FC1}|CodeBehind.TiroCurto.UrnaEletronica.csproj|solutionrelative:frmurna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39EE6B61-0D55-23B0-5790-C43225ED5FC1}|CodeBehind.TiroCurto.UrnaEletronica.csproj|c:\\users\\wolfizerax\\desktop\\e-vote\\urnaeletronica\\codebehind.tirocurto.urnaeletronica\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{39EE6B61-0D55-23B0-5790-C43225ED5FC1}|CodeBehind.TiroCurto.UrnaEletronica.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\WOLFIZERAX\\Desktop\\E-vote\\UrnaEletronica\\CodeBehind.TiroCurto.UrnaEletronica\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\WOLFIZERAX\\Desktop\\E-vote\\UrnaEletronica\\CodeBehind.TiroCurto.UrnaEletronica\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-28T13:50:22.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmUrna.cs",
+              "DocumentMoniker": "C:\\Users\\WOLFIZERAX\\Desktop\\E-vote\\UrnaEletronica\\CodeBehind.TiroCurto.UrnaEletronica\\frmUrna.cs",
+              "RelativeDocumentMoniker": "frmUrna.cs",
+              "ToolTip": "C:\\Users\\WOLFIZERAX\\Desktop\\E-vote\\UrnaEletronica\\CodeBehind.TiroCurto.UrnaEletronica\\frmUrna.cs",
+              "RelativeToolTip": "frmUrna.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAUwJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:40:17.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUrna.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\WOLFIZERAX\\Desktop\\E-vote\\UrnaEletronica\\CodeBehind.TiroCurto.UrnaEletronica\\frmUrna.cs",
+              "RelativeDocumentMoniker": "frmUrna.cs",
+              "ToolTip": "C:\\Users\\WOLFIZERAX\\Desktop\\E-vote\\UrnaEletronica\\CodeBehind.TiroCurto.UrnaEletronica\\frmUrna.cs [Projeto]",
+              "RelativeToolTip": "frmUrna.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T13:37:14.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

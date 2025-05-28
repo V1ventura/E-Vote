@@ -59,8 +59,10 @@ Se este projeto te ajudou ou te inspirou, deixe uma estrela no repositório!
 
 ---
 ### ▶️ Candidatos a Presidente
-👨‍🌾 Alan Brado = 52
-👩‍🌾 Osmar Motta = 51
+👨‍✈️ Bolsonaro = 22
+👩‍🌾 Lula = 13
+👨‍💼 Ciro Gomes = 12
+👩‍💼 Simone = 15
 
 ---
 ###
